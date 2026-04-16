@@ -1,0 +1,2 @@
+# AyamKalku
+aplikasi keuangan ternak
